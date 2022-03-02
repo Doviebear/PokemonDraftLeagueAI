@@ -1,0 +1,8 @@
+WEBSOCKET_URI=host.docker.internal:8080
+SAVE_REPLAY=True
+PS_USERNAME=Doviebear2
+PS_PASSWORD=softsoft99
+BOT_MODE=ACCEPT_CHALLENGE
+POKEMON_MODE=gen8randombattle
+RUN_COUNT=1
+
